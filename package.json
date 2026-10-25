@@ -1,0 +1,1 @@
+{"description":"Cyber Digits Inc starter web app for Azure App Service","engines":{"node":"20.x"},"license":"MIT","main":"server.js","name":"azuredev","scripts":{"start":"node server.js"},"version":"1.0.0"}
