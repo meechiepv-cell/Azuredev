@@ -1,0 +1,16 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.5; }
+.hero { background: #0a2a5e; color: #fff; padding: 4rem 1.5rem; text-align: center; }
+.hero h1 { margin: 0 0 0.5rem; font-size: 2.5rem; }
+.tagline { font-size: 1.25rem; margin: 0 0 0.5rem; }
+.sub { opacity: 0.85; max-width: 560px; margin: 0 auto 1.5rem; }
+.cta a { display: inline-block; margin: 0 0.5rem; padding: 0.6rem 1.2rem; border-radius: 6px; background: #fff; color: #0a2a5e; text-decoration: none; font-weight: 600; }
+main { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+main h2 { color: #0a2a5e; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 1rem; }
+.card { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; }
+.card h3 { margin: 0 0 0.25rem; color: #0a2a5e; font-size: 1.05rem; }
+.card p { margin: 0; color: #555; }
+.note { margin-top: 2rem; color: #666; font-size: 0.95rem; }
+footer { text-align: center; padding: 2rem 1rem; color: #666; border-top: 1px solid #eee; }
+footer a { color: #0a2a5e; }
